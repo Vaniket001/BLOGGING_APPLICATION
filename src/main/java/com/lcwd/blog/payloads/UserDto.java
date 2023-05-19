@@ -1,4 +1,4 @@
-package com.lcwd.blog.payload;
+package com.lcwd.blog.payloads;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotEmpty;

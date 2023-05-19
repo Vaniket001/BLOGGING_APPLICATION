@@ -1,4 +1,4 @@
-package com.lcwd.blog.payload;
+package com.lcwd.blog.payloads;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

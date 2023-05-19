@@ -2,7 +2,7 @@ package com.lcwd.blog.service;
 
 import java.util.List;
 
-import com.lcwd.blog.payload.UserDto;
+import com.lcwd.blog.payloads.UserDto;
 
 public interface UserService {
 	

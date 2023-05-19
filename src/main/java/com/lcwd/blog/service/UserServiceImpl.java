@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 
 import com.lcwd.blog.entity.User;
 import com.lcwd.blog.exception.ResourceNotFoundException;
-import com.lcwd.blog.payload.UserDto;
+import com.lcwd.blog.payloads.UserDto;
 import com.lcwd.blog.repository.UserRepository;
 
 @Service

@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.lcwd.blog.payload.ApiResponse;
-import com.lcwd.blog.payload.UserDto;
+import com.lcwd.blog.payloads.ApiResponse;
+import com.lcwd.blog.payloads.UserDto;
 import com.lcwd.blog.service.UserService;
 
 @RestController
